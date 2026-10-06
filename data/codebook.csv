@@ -1,0 +1,39 @@
+variable,manuscript_item,dimension,excel_column_number,portuguese_item_header,minimum,maximum,reverse_scored
+tv1,TCI1,Vision,1,[Quão claro você está sobre quais são os objetivos da sua equipe?],1,5,False
+tv2,TCI2,Vision,2,[Até que ponto você acha que são objetivos úteis?],1,5,False
+tv3,TCI3,Vision,3,[Até que ponto você concorda com esses objetivos?],1,5,False
+tv4,TCI4,Vision,4,[Até que ponto você acha que os objetivos de sua equipe são claramente compreendidos por outros membros da equipe?],1,5,False
+tv5,TCI5,Vision,5,[Até que ponto você acha que outros membros da equipe concordam com esses objetivos?],1,5,False
+tv6,TCI6,Vision,6,[Até que ponto você acha que os objetivos de sua equipe podem realmente ser alcançados?],1,5,False
+tv7,TCI7,Vision,7,[Você acha que esses objetivos valem a pena?],1,5,False
+tv8,TCI8,Vision,8,[Como você acha que esses objetivos valem para a organização?],1,5,False
+tv9,TCI9,Vision,9,[Como você acha que esses objetivos valem para a sociedade em geral?],1,5,False
+tv10,TCI10,Vision,10,[Até que ponto você acha que esses objetivos são realistas e podem ser atingidos?],1,5,False
+tv11,TCI11,Vision,11,[Até que ponto você acha que os membros de sua equipe estão comprometidos com esses objetivos?],1,5,False
+to1,TCI12,Task Orientation,12,[Os colegas de sua equipe fornecem idéias úteis e ajuda prática para permitir que você faça o trabalho da melhor maneira possível?],1,5,False
+to2,TCI13,Task Orientation,13,[Você e seus colegas se monitoram para manter um padrão mais alto de trabalho?],1,5,False
+to3,TCI14,Task Orientation,14,[Os membros da equipe estão preparados para questionar a base do que a equipe está fazendo?],1,5,False
+to4,TCI15,Task Orientation,15,[A equipe avalia criticamente os pontos fracos em potencial no que está fazendo para alcançar o melhor resultado possível?],1,5,False
+to5,TCI16,Task Orientation,16,[Os membros da equipe se baseiam nas idéias uns dos outros para alcançar o melhor resultado possível?],1,5,False
+to6,TCI17,Task Orientation,17,[É uma preocupação real entre os membros da equipe que a equipe atinja os mais altos padrões de desempenho?],1,5,False
+to7,TCI18,Task Orientation,18,[A equipe possui critérios claros que os membros tentam atender para alcançar a excelência como equipe?],1,5,False
+si1,TCI19,Support for Innovation,19,[A equipe está sempre se movendo em direção ao desenvolvimento de novas respostas],1,5,False
+si2,TCI20,Support for Innovation,20,"[Nesta equipe, dedicamos o tempo necessário para desenvolver novas idéias]",1,5,False
+si3,TCI21,Support for Innovation,21,[A Assistência para o desenvolvimento de novas idéias está disponível],1,5,False
+si4,TCI22,Support for Innovation,22,[A equipe é aberta e receptiva à mudança],1,5,False
+si5,TCI23,Support for Innovation,23,[As pessoas desta equipe cooperam para ajudar a desenvolver e aplicar novas idéias],1,5,False
+si6,TCI24,Support for Innovation,24,[As pessoas desta equipe estão sempre procurando novas maneiras de encarar os problemas],1,5,False
+si7,TCI25,Support for Innovation,25,[Os membros da equipe fornecem e compartilham recursos para ajudar na aplicação de novas idéias],1,5,False
+si8,TCI26,Support for Innovation,26,[Os membros da equipe fornecem suporte prático para novas idéias e sua aplicação],1,5,False
+ps1,TCI27,Participative Safety,27,"[Compartilhamos informações geralmente na equipe, em vez de mantê-las para nós mesmos]",1,5,False
+ps2,TCI28,Participative Safety,28,[Nós Temos a atitude de “estamos juntos”],1,5,False
+ps3,TCI29,Participative Safety,29,[Todos nós influenciamos um ao outro],1,5,False
+ps4,TCI30,Participative Safety,30,[As pessoas se mantêm informadas sobre os problemas relacionados ao trabalho na equipe],1,5,False
+ps5,TCI31,Participative Safety,31,[As pessoas se sentem compreendidas e aceitas uma pela outra],1,5,False
+ps6,TCI32,Participative Safety,32,"[A opinião de todos é ouvida, mesmo que seja minoria]",1,5,False
+ps7,TCI33,Participative Safety,33,[Existem verdadeiras tentativas de compartilhar informações em toda a equipe],1,5,False
+ps8,TCI34,Participative Safety,34,[Há muita troca entre os membros da equipe],1,5,False
+ps9,TCI35,Participative Safety,35,[Mantemos contato regular uns com os outros],1,5,False
+ps10,TCI36,Participative Safety,36,[Interagimos frequentemente],1,5,False
+ps11,TCI37,Participative Safety,37,[Mantemos contato uns com os outros como uma equipe],1,5,False
+ps12,TCI38,Participative Safety,38,[Os membros da equipe se reúnem frequentemente para conversar formal e informalmente],1,5,False

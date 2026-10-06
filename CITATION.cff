@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+type: dataset
+title: "Supplementary material for What Do Team Climate Scores Tell Us? A Psychometric Study of Agile Software Teams"
+message: "Please cite this supplementary dataset and the accompanying manuscript when available. Specify the repository commit used."
+authors:
+  - family-names: Perkusich
+    given-names: Mirko
+  - family-names: Costa
+    given-names: Icaro
+  - family-names: Santos
+    given-names: Ramon
+  - family-names: Mendes
+    given-names: Emilia
+  - family-names: Albuquerque
+    given-names: Danyllo
+  - family-names: Perkusich
+    given-names: Angelo
+repository-code: "https://github.com/isevirtus/tci-agile-software-teams"
+url: "https://github.com/isevirtus/tci-agile-software-teams"
+keywords:
+  - Team Climate Inventory
+  - agile software teams
+  - psychometrics
+  - software engineering

@@ -1,0 +1,10 @@
+# Model specification extracted from the supplied DOCX; line breaks normalized.
+# Factors
+Factor1 =~ lambda_1_1*tv1 + lambda_1_2*tv2 + lambda_1_3*tv3 + lambda_1_4*tv4 + lambda_1_5*tv5 + lambda_1_6*tv6 + lambda_1_7*tv7 + lambda_1_8*tv8 + lambda_1_9*tv9 + lambda_1_10*tv10 + lambda_1_11*tv11
+Factor2 =~ lambda_2_1*to1 + lambda_2_2*to2 + lambda_2_3*to3 + lambda_2_4*to4 + lambda_2_5*to5 + lambda_2_6*to6 + lambda_2_7*to7
+Factor3 =~ lambda_3_1*si1 + lambda_3_2*si2 + lambda_3_3*si3 + lambda_3_4*si4 + lambda_3_5*si5 + lambda_3_6*si6 + lambda_3_7*si7 + lambda_3_8*si8
+Factor4 =~ lambda_4_1*ps1 + lambda_4_2*ps2 + lambda_4_3*ps3 + lambda_4_4*ps4 + lambda_4_5*ps5 + lambda_4_6*ps6 + lambda_4_7*ps7 + lambda_4_8*ps8 + lambda_4_9*ps9 + lambda_4_10*ps10 + lambda_4_11*ps11 + lambda_4_12*ps12
+
+# Residual correlations
+ps9 ~~ ps10
+tv7 ~~ tv8

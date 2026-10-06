@@ -1,0 +1,45 @@
+{
+  "n": 148,
+  "items": 38,
+  "missing_item_values": 0,
+  "response_values": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "jasp_workbook_exact_match_including_order": true,
+  "jasp_item_types": [
+    "ordinal"
+  ],
+  "jasp_version": "0.98.1",
+  "analysis_module_version": "0.95.5",
+  "cfa_status_in_saved_project": "complete",
+  "cfa_reestimated_by_this_script": false,
+  "raw_38_item_alpha": 0.969398143143873,
+  "workbook_formula_examples": {
+    "AM2": "=AVERAGE(A3:K3)",
+    "AM3": "=AVERAGE(A4:K4)",
+    "AP2": "=AVERAGE(AA3:AL3)",
+    "AQ2": "=AVERAGE(AM2:AP2)",
+    "AR2": 4
+  },
+  "workbook_notes_verbatim": [
+    "Versão B: exclui a linha original 43 e mantém a 112. É igualmente compatível com o banco final pelos escores agregados.",
+    "N = 148"
+  ],
+  "saved_total_omega": 1.0143892825200003,
+  "flags": [
+    "The workbook identifies this reconstruction as Version B; the original selection record is not supplied.",
+    "Workbook score formulas and source-row labels are shifted relative to the item-response rows; scores are recomputed from A3:AL150.",
+    "Saved total omega exceeds one and must not be interpreted as valid reliability evidence.",
+    "Original Python scripts for HTMT, descriptive comparisons and plotting were not included.",
+    "No demographic variables or team identifiers are present in the shared item matrix."
+  ],
+  "original_files_sha256": {
+    "data/TCI.xlsx": "bd159a057813bbbb959d8d0b6540915daa31cfdbf390401607b64c72219aadc2",
+    "analysis/CFA.jasp": "05e1252dc6249a089eb8c05a066655fb66238674c21dd1b15386a83d04c21b33",
+    "analysis/Script e syntax.docx": "0b26521e55cdcd9779346509ec1912fe5c1f245075a9dfbf2093723b23c2e820"
+  }
+}
