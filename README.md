@@ -1,13 +1,18 @@
 # Team Climate Inventory in agile software teams
 
-Supplementary material for **What Do Team Climate Scores Tell Us? A Psychometric Study of Agile Software Teams**, by Mirko Perkusich, Icaro Costa, Ramon Santos, Emilia Mendes, Danyllo Albuquerque, and Angelo Perkusich.
+Supplementary material for **Measuring perceived team climate in agile software teams: Internal consistency and dimensional overlap in the Team Climate Inventory**, by Mirko Perkusich, Icaro Costa, Ramon Santos, Emilia Mendes, Danyllo Albuquerque, and Angelo Perkusich.
 
 The study examines the internal structure, internal consistency, and dimensional separation of a Brazilian Portuguese Team Climate Inventory (TCI) among 148 professionals from 16 agile software teams. The analyses concern individual perceptions. The shared item matrix contains 38 five-category responses per person; it does not include team identifiers or demographic variables.
+
+## Use the questionnaire
+
+Download the [Brazilian Portuguese TCI questionnaire](instrument/tci-pt-br.pdf) and follow the [administration and scoring guide](instrument/README.md). The package contains all 38 items and the five response labels, plus [JSON definitions](instrument/tci-pt-br.json) and a [CSV item map](instrument/tci-item-map.csv) for implementing an electronic form or connecting responses to the analysis variables.
 
 ## Files
 
 | File | Contents |
 |---|---|
+| [instrument/](instrument/) | Printable questionnaire, administration/scoring guide, JSON definitions and item map. |
 | [data/TCI.xlsx](data/TCI.xlsx) | Original supplied workbook, preserved unchanged. Read the layout notes before using its score columns. |
 | [data/tci_items.csv](data/tci_items.csv) | Analysis-ready 148 × 38 item matrix, verified against the data embedded in the JASP project. |
 | [data/codebook.csv](data/codebook.csv) | Variable names, manuscript item identifiers, dimensions, and Portuguese item headers from the workbook. |
@@ -32,7 +37,7 @@ For analyses outside JASP, use `data/tci_items.csv`. Its column order follows th
 
 Responses are integers from 1 to 5, with larger values indicating a more favorable perception. No item is reverse-scored. The descriptive overall score is the mean of the **four dimension means**, giving equal weight to each dimension. It is not the mean of all 38 items.
 
-The provided matrix has no missing item responses. Item wording in the codebook reproduces the workbook headers; the files do not establish the exact verbal response anchors used on the original survey form.
+The provided matrix has no missing item responses. The complete item wording and exact verbal response labels are available in [instrument/](instrument/). All dimensions use the same five options, coded 1-5 in the order listed in the administration guide.
 
 ## Recreate the derived files
 

@@ -1,0 +1,39 @@
+﻿order,id,variable,dimension,text,response_1,response_2,response_3,response_4,response_5
+1,TCI1,tv1,Vision,Quão claro você está sobre quais são os objetivos da sua equipe?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+2,TCI2,tv2,Vision,Até que ponto você acha que são objetivos úteis?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+3,TCI3,tv3,Vision,Até que ponto você concorda com esses objetivos?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+4,TCI4,tv4,Vision,Até que ponto você acha que os objetivos de sua equipe são claramente compreendidos por outros membros da equipe?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+5,TCI5,tv5,Vision,Até que ponto você acha que outros membros da equipe concordam com esses objetivos?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+6,TCI6,tv6,Vision,Até que ponto você acha que os objetivos de sua equipe podem realmente ser alcançados?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+7,TCI7,tv7,Vision,Você acha que esses objetivos valem a pena?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+8,TCI8,tv8,Vision,Como você acha que esses objetivos valem para a organização?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+9,TCI9,tv9,Vision,Como você acha que esses objetivos valem para a sociedade em geral?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+10,TCI10,tv10,Vision,Até que ponto você acha que esses objetivos são realistas e podem ser atingidos?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+11,TCI11,tv11,Vision,Até que ponto você acha que os membros de sua equipe estão comprometidos com esses objetivos?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+12,TCI12,to1,Task Orientation,Os colegas de sua equipe fornecem idéias úteis e ajuda prática para permitir que você faça o trabalho da melhor maneira possível?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+13,TCI13,to2,Task Orientation,Você e seus colegas se monitoram para manter um padrão mais alto de trabalho?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+14,TCI14,to3,Task Orientation,Os membros da equipe estão preparados para questionar a base do que a equipe está fazendo?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+15,TCI15,to4,Task Orientation,A equipe avalia criticamente os pontos fracos em potencial no que está fazendo para alcançar o melhor resultado possível?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+16,TCI16,to5,Task Orientation,Os membros da equipe se baseiam nas idéias uns dos outros para alcançar o melhor resultado possível?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+17,TCI17,to6,Task Orientation,É uma preocupação real entre os membros da equipe que a equipe atinja os mais altos padrões de desempenho?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+18,TCI18,to7,Task Orientation,A equipe possui critérios claros que os membros tentam atender para alcançar a excelência como equipe?,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+19,TCI19,si1,Support for Innovation,A equipe está sempre se movendo em direção ao desenvolvimento de novas respostas,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+20,TCI20,si2,Support for Innovation,"Nesta equipe, dedicamos o tempo necessário para desenvolver novas idéias",Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+21,TCI21,si3,Support for Innovation,A Assistência para o desenvolvimento de novas idéias está disponível,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+22,TCI22,si4,Support for Innovation,A equipe é aberta e receptiva à mudança,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+23,TCI23,si5,Support for Innovation,As pessoas desta equipe cooperam para ajudar a desenvolver e aplicar novas idéias,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+24,TCI24,si6,Support for Innovation,As pessoas desta equipe estão sempre procurando novas maneiras de encarar os problemas,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+25,TCI25,si7,Support for Innovation,Os membros da equipe fornecem e compartilham recursos para ajudar na aplicação de novas idéias,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+26,TCI26,si8,Support for Innovation,Os membros da equipe fornecem suporte prático para novas idéias e sua aplicação,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+27,TCI27,ps1,Participative Safety,"Compartilhamos informações geralmente na equipe, em vez de mantê-las para nós mesmos",Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+28,TCI28,ps2,Participative Safety,Nós Temos a atitude de “estamos juntos”,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+29,TCI29,ps3,Participative Safety,Todos nós influenciamos um ao outro,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+30,TCI30,ps4,Participative Safety,As pessoas se mantêm informadas sobre os problemas relacionados ao trabalho na equipe,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+31,TCI31,ps5,Participative Safety,As pessoas se sentem compreendidas e aceitas uma pela outra,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+32,TCI32,ps6,Participative Safety,"A opinião de todos é ouvida, mesmo que seja minoria",Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+33,TCI33,ps7,Participative Safety,Existem verdadeiras tentativas de compartilhar informações em toda a equipe,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+34,TCI34,ps8,Participative Safety,Há muita troca entre os membros da equipe,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+35,TCI35,ps9,Participative Safety,Mantemos contato regular uns com os outros,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+36,TCI36,ps10,Participative Safety,Interagimos frequentemente,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+37,TCI37,ps11,Participative Safety,Mantemos contato uns com os outros como uma equipe,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida
+38,TCI38,ps12,Participative Safety,Os membros da equipe se reúnem frequentemente para conversar formal e informalmente,Até muito pouco,Até um pouco,Em grau moderado,Em grande medida,Em ótima medida

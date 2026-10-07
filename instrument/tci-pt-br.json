@@ -1,0 +1,307 @@
+{
+  "name": "Team Climate Inventory (TCI)",
+  "language": "pt-BR",
+  "version": "38 items; five response categories",
+  "instructions": "1. Escolha a opção que melhor descreve o seu ponto de vista  atual , e não o que você gostaria de ter no futuro.\n\n2. Responda honestamente (mesmo se você não gostar da resposta).\n \n3. Neste questionário não há respostas certas nem erradas, mas simplesmente diferentes. Portanto as respostas devem ser sinceras.",
+  "introduction": "Este questionário enfatiza a percepção compartilhada entre os membros de uma equipe em relação às políticas, práticas e comportamentos organizacionais dos membros. Não há respostas certas ou erradas, forneça suas impressões imediatas.",
+  "response_options": [
+    {
+      "value": 1,
+      "label": "Até muito pouco"
+    },
+    {
+      "value": 2,
+      "label": "Até um pouco"
+    },
+    {
+      "value": 3,
+      "label": "Em grau moderado"
+    },
+    {
+      "value": 4,
+      "label": "Em grande medida"
+    },
+    {
+      "value": 5,
+      "label": "Em ótima medida"
+    }
+  ],
+  "administration": {
+    "one_response_per_item": true,
+    "all_items_required": true,
+    "shuffle_items": false
+  },
+  "scoring": {
+    "dimension_score": "arithmetic mean of items assigned to the dimension",
+    "reverse_scored_items": [],
+    "overall_score": "arithmetic mean of the four dimension scores; descriptive only"
+  },
+  "items": [
+    {
+      "order": 1,
+      "id": "TCI1",
+      "variable": "tv1",
+      "dimension": "Vision",
+      "text": "Quão claro você está sobre quais são os objetivos da sua equipe?"
+    },
+    {
+      "order": 2,
+      "id": "TCI2",
+      "variable": "tv2",
+      "dimension": "Vision",
+      "text": "Até que ponto você acha que são objetivos úteis?"
+    },
+    {
+      "order": 3,
+      "id": "TCI3",
+      "variable": "tv3",
+      "dimension": "Vision",
+      "text": "Até que ponto você concorda com esses objetivos?"
+    },
+    {
+      "order": 4,
+      "id": "TCI4",
+      "variable": "tv4",
+      "dimension": "Vision",
+      "text": "Até que ponto você acha que os objetivos de sua equipe são claramente compreendidos por outros membros da equipe?"
+    },
+    {
+      "order": 5,
+      "id": "TCI5",
+      "variable": "tv5",
+      "dimension": "Vision",
+      "text": "Até que ponto você acha que outros membros da equipe concordam com esses objetivos?"
+    },
+    {
+      "order": 6,
+      "id": "TCI6",
+      "variable": "tv6",
+      "dimension": "Vision",
+      "text": "Até que ponto você acha que os objetivos de sua equipe podem realmente ser alcançados?"
+    },
+    {
+      "order": 7,
+      "id": "TCI7",
+      "variable": "tv7",
+      "dimension": "Vision",
+      "text": "Você acha que esses objetivos valem a pena?"
+    },
+    {
+      "order": 8,
+      "id": "TCI8",
+      "variable": "tv8",
+      "dimension": "Vision",
+      "text": "Como você acha que esses objetivos valem para a organização?"
+    },
+    {
+      "order": 9,
+      "id": "TCI9",
+      "variable": "tv9",
+      "dimension": "Vision",
+      "text": "Como você acha que esses objetivos valem para a sociedade em geral?"
+    },
+    {
+      "order": 10,
+      "id": "TCI10",
+      "variable": "tv10",
+      "dimension": "Vision",
+      "text": "Até que ponto você acha que esses objetivos são realistas e podem ser atingidos?"
+    },
+    {
+      "order": 11,
+      "id": "TCI11",
+      "variable": "tv11",
+      "dimension": "Vision",
+      "text": "Até que ponto você acha que os membros de sua equipe estão comprometidos com esses objetivos?"
+    },
+    {
+      "order": 12,
+      "id": "TCI12",
+      "variable": "to1",
+      "dimension": "Task Orientation",
+      "text": "Os colegas de sua equipe fornecem idéias úteis e ajuda prática para permitir que você faça o trabalho da melhor maneira possível?"
+    },
+    {
+      "order": 13,
+      "id": "TCI13",
+      "variable": "to2",
+      "dimension": "Task Orientation",
+      "text": "Você e seus colegas se monitoram para manter um padrão mais alto de trabalho?"
+    },
+    {
+      "order": 14,
+      "id": "TCI14",
+      "variable": "to3",
+      "dimension": "Task Orientation",
+      "text": "Os membros da equipe estão preparados para questionar a base do que a equipe está fazendo?"
+    },
+    {
+      "order": 15,
+      "id": "TCI15",
+      "variable": "to4",
+      "dimension": "Task Orientation",
+      "text": "A equipe avalia criticamente os pontos fracos em potencial no que está fazendo para alcançar o melhor resultado possível?"
+    },
+    {
+      "order": 16,
+      "id": "TCI16",
+      "variable": "to5",
+      "dimension": "Task Orientation",
+      "text": "Os membros da equipe se baseiam nas idéias uns dos outros para alcançar o melhor resultado possível?"
+    },
+    {
+      "order": 17,
+      "id": "TCI17",
+      "variable": "to6",
+      "dimension": "Task Orientation",
+      "text": "É uma preocupação real entre os membros da equipe que a equipe atinja os mais altos padrões de desempenho?"
+    },
+    {
+      "order": 18,
+      "id": "TCI18",
+      "variable": "to7",
+      "dimension": "Task Orientation",
+      "text": "A equipe possui critérios claros que os membros tentam atender para alcançar a excelência como equipe?"
+    },
+    {
+      "order": 19,
+      "id": "TCI19",
+      "variable": "si1",
+      "dimension": "Support for Innovation",
+      "text": "A equipe está sempre se movendo em direção ao desenvolvimento de novas respostas"
+    },
+    {
+      "order": 20,
+      "id": "TCI20",
+      "variable": "si2",
+      "dimension": "Support for Innovation",
+      "text": "Nesta equipe, dedicamos o tempo necessário para desenvolver novas idéias"
+    },
+    {
+      "order": 21,
+      "id": "TCI21",
+      "variable": "si3",
+      "dimension": "Support for Innovation",
+      "text": "A Assistência para o desenvolvimento de novas idéias está disponível"
+    },
+    {
+      "order": 22,
+      "id": "TCI22",
+      "variable": "si4",
+      "dimension": "Support for Innovation",
+      "text": "A equipe é aberta e receptiva à mudança"
+    },
+    {
+      "order": 23,
+      "id": "TCI23",
+      "variable": "si5",
+      "dimension": "Support for Innovation",
+      "text": "As pessoas desta equipe cooperam para ajudar a desenvolver e aplicar novas idéias"
+    },
+    {
+      "order": 24,
+      "id": "TCI24",
+      "variable": "si6",
+      "dimension": "Support for Innovation",
+      "text": "As pessoas desta equipe estão sempre procurando novas maneiras de encarar os problemas"
+    },
+    {
+      "order": 25,
+      "id": "TCI25",
+      "variable": "si7",
+      "dimension": "Support for Innovation",
+      "text": "Os membros da equipe fornecem e compartilham recursos para ajudar na aplicação de novas idéias"
+    },
+    {
+      "order": 26,
+      "id": "TCI26",
+      "variable": "si8",
+      "dimension": "Support for Innovation",
+      "text": "Os membros da equipe fornecem suporte prático para novas idéias e sua aplicação"
+    },
+    {
+      "order": 27,
+      "id": "TCI27",
+      "variable": "ps1",
+      "dimension": "Participative Safety",
+      "text": "Compartilhamos informações geralmente na equipe, em vez de mantê-las para nós mesmos"
+    },
+    {
+      "order": 28,
+      "id": "TCI28",
+      "variable": "ps2",
+      "dimension": "Participative Safety",
+      "text": "Nós Temos a atitude de “estamos juntos”"
+    },
+    {
+      "order": 29,
+      "id": "TCI29",
+      "variable": "ps3",
+      "dimension": "Participative Safety",
+      "text": "Todos nós influenciamos um ao outro"
+    },
+    {
+      "order": 30,
+      "id": "TCI30",
+      "variable": "ps4",
+      "dimension": "Participative Safety",
+      "text": "As pessoas se mantêm informadas sobre os problemas relacionados ao trabalho na equipe"
+    },
+    {
+      "order": 31,
+      "id": "TCI31",
+      "variable": "ps5",
+      "dimension": "Participative Safety",
+      "text": "As pessoas se sentem compreendidas e aceitas uma pela outra"
+    },
+    {
+      "order": 32,
+      "id": "TCI32",
+      "variable": "ps6",
+      "dimension": "Participative Safety",
+      "text": "A opinião de todos é ouvida, mesmo que seja minoria"
+    },
+    {
+      "order": 33,
+      "id": "TCI33",
+      "variable": "ps7",
+      "dimension": "Participative Safety",
+      "text": "Existem verdadeiras tentativas de compartilhar informações em toda a equipe"
+    },
+    {
+      "order": 34,
+      "id": "TCI34",
+      "variable": "ps8",
+      "dimension": "Participative Safety",
+      "text": "Há muita troca entre os membros da equipe"
+    },
+    {
+      "order": 35,
+      "id": "TCI35",
+      "variable": "ps9",
+      "dimension": "Participative Safety",
+      "text": "Mantemos contato regular uns com os outros"
+    },
+    {
+      "order": 36,
+      "id": "TCI36",
+      "variable": "ps10",
+      "dimension": "Participative Safety",
+      "text": "Interagimos frequentemente"
+    },
+    {
+      "order": 37,
+      "id": "TCI37",
+      "variable": "ps11",
+      "dimension": "Participative Safety",
+      "text": "Mantemos contato uns com os outros como uma equipe"
+    },
+    {
+      "order": 38,
+      "id": "TCI38",
+      "variable": "ps12",
+      "dimension": "Participative Safety",
+      "text": "Os membros da equipe se reúnem frequentemente para conversar formal e informalmente"
+    }
+  ]
+}
